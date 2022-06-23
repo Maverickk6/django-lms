@@ -1,0 +1,9 @@
+#python generated files
+
+__pycache__/
+*.pyc
+
+
+.vscode
+
+db.sqlite3
